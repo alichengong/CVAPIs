@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/chengong.cg/Git/GitHub/CVAPIs/OpenCV/build",
+  "command": "/usr/local/bin/g++-8   -I/Users/chengong.cg/Git/GitHub/CVAPIs/OpenCV/include -I/Users/chengong.cg/Git/opencv-3.4.5/include -I/Users/chengong.cg/Git/opencv-3.4.5/build -I/Users/chengong.cg/Git/opencv-3.4.5/modules/core/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/videoio/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/imgproc/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/imgcodecs/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/highgui/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/features2d/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/flann/include -I/Users/chengong.cg/Git/opencv-3.4.5/opencv_contrib-3.4.5/modules/xfeatures2d/include   -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/mycv.dir/main.cpp.o -c /Users/chengong.cg/Git/GitHub/CVAPIs/OpenCV/main.cpp",
+  "file": "/Users/chengong.cg/Git/GitHub/CVAPIs/OpenCV/main.cpp"
+},
+{
+  "directory": "/Users/chengong.cg/Git/GitHub/CVAPIs/OpenCV/build",
+  "command": "/usr/local/bin/g++-8   -I/Users/chengong.cg/Git/GitHub/CVAPIs/OpenCV/include -I/Users/chengong.cg/Git/opencv-3.4.5/include -I/Users/chengong.cg/Git/opencv-3.4.5/build -I/Users/chengong.cg/Git/opencv-3.4.5/modules/core/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/videoio/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/imgproc/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/imgcodecs/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/highgui/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/features2d/include -I/Users/chengong.cg/Git/opencv-3.4.5/modules/flann/include -I/Users/chengong.cg/Git/opencv-3.4.5/opencv_contrib-3.4.5/modules/xfeatures2d/include   -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/mycv.dir/src/FeatureDetector.cpp.o -c /Users/chengong.cg/Git/GitHub/CVAPIs/OpenCV/src/FeatureDetector.cpp",
+  "file": "/Users/chengong.cg/Git/GitHub/CVAPIs/OpenCV/src/FeatureDetector.cpp"
+}
+]
